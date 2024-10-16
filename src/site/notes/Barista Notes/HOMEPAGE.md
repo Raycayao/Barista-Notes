@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/barista-notes/homepage/","tags":["gardenEntry"]}
 ---
 
-# Homepage 
+# HOMEPAGE BARISTA NCII NOTES
 
 Author: RAYMUND DG. CAYAO 
 
