@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/barista-notes/homepage/","tags":["gardenEntry"]}
 ---
 
+# Homepage 
+
 Author: RAYMUND DG. CAYAO 
 
 This is my personal notes for Barista NCII, feel free to browse and review for the assessment
