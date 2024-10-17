@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/barista-notes/homepage/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # HOMEPAGE BARISTA NCII NOTES
@@ -35,3 +35,5 @@ For All about coffee see [[Barista Notes/All About Coffee/All About Coffee (Thin
 To know about Maintenance see [[Barista Notes/TR and Maintenance/Perform basic maintenance of machine and equipment\|Perform basic maintenance of machine and equipment]]
 
 See also [[Barista tools and equipment (parts and procedures).canvas|Barista tools and equipment (parts and procedures)]]
+
+To see other notes click the toolbar icon in the top left corner ()
