@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/handle-complaints/"}
+{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/handle-complaints/","noteIcon":""}
 ---
 
 

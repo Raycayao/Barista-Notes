@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/milk-things-to-remember/types-of-dairy-milk/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/milk-things-to-remember/types-of-dairy-milk/","noteIcon":""}
 ---
 
 

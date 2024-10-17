@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/milk-things-to-remember/texture-milk/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/milk-things-to-remember/texture-milk/","noteIcon":""}
 ---
 
 

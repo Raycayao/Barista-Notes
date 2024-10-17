@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/coffee-grinders/"}
+{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/coffee-grinders/","noteIcon":""}
 ---
 
 

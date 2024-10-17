@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/guide-for-script/"}
+{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/guide-for-script/","noteIcon":""}
 ---
 
 

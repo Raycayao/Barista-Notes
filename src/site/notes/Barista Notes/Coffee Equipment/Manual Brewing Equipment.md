@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/manual-brewing-equipment/"}
+{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/manual-brewing-equipment/","noteIcon":""}
 ---
 
 

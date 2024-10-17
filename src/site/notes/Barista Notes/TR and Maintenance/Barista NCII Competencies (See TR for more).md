@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/barista-ncii-competencies-see-tr-for-more/"}
+{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/barista-ncii-competencies-see-tr-for-more/","noteIcon":""}
 ---
 
 

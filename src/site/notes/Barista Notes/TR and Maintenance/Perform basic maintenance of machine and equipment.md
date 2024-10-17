@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/perform-basic-maintenance-of-machine-and-equipment/"}
+{"dg-publish":true,"permalink":"/barista-notes/tr-and-maintenance/perform-basic-maintenance-of-machine-and-equipment/","noteIcon":""}
 ---
 
 

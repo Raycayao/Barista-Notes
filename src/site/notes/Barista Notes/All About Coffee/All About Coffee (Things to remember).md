@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/all-about-coffee-things-to-remember/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/all-about-coffee-things-to-remember/","noteIcon":""}
 ---
 
 

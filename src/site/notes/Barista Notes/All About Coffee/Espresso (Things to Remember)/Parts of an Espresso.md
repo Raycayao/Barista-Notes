@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/espresso-things-to-remember/parts-of-an-espresso/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/espresso-things-to-remember/parts-of-an-espresso/","noteIcon":""}
 ---
 
 

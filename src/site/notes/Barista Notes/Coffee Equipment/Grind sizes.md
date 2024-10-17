@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/grind-sizes/"}
+{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/grind-sizes/","noteIcon":""}
 ---
 
 

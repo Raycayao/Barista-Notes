@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/espresso-machine/"}
+{"dg-publish":true,"permalink":"/barista-notes/coffee-equipment/espresso-machine/","noteIcon":""}
 ---
 
 

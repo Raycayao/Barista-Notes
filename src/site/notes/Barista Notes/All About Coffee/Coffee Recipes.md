@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/coffee-recipes/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/coffee-recipes/","noteIcon":""}
 ---
 
 

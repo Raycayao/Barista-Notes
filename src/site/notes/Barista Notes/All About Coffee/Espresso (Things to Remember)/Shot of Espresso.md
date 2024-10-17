@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/espresso-things-to-remember/shot-of-espresso/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/espresso-things-to-remember/shot-of-espresso/","noteIcon":""}
 ---
 
 

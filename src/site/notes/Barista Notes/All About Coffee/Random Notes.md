@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/random-notes/"}
+{"dg-publish":true,"permalink":"/barista-notes/all-about-coffee/random-notes/","noteIcon":""}
 ---
 
 
