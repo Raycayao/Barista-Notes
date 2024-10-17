@@ -6,7 +6,11 @@
 
 Author: RAYMUND DG. CAYAO 
 
-This is my personal notes for Barista NCII, feel free to browse and review for the assessment
+![Pasted image 20241017082407.png](/img/user/Pasted%20image%2020241017082407.png)
+
+## This is my personal notes for Barista NCII, feel free to browse and review for the assessment
+
+
 
 Start Here:
 
