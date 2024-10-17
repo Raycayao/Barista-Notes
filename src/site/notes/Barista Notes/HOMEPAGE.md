@@ -8,9 +8,7 @@ Author: RAYMUND DG. CAYAO
 
 ![Pasted image 20241017082407.png](/img/user/Pasted%20image%2020241017082407.png)
 
-## This is my personal notes for Barista NCII, feel free to browse and review for the assessment
-
-
+This is my personal notes for Barista NCII, feel free to browse and review for the assessment
 
 Start Here:
 
@@ -40,4 +38,4 @@ To know about Maintenance see [[Barista Notes/TR and Maintenance/Perform basic m
 
 See also [[Barista tools and equipment (parts and procedures).canvas|Barista tools and equipment (parts and procedures)]]
 
-To see other notes click the toolbar icon in the top left corner ()
+To see other notes click the toolbar icon in the top left corner. 
